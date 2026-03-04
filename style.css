@@ -1,0 +1,21 @@
+img {
+  width: 50%;
+  display: block;
+  max-width: 100%;
+  margin: 10px;
+}
+body{
+    color: rgb(rgba(172, 28, 28, 0), rgb(70, 38, 16), rgb(19, 125, 196));
+}
+img {
+  display: block;
+  margin: 0 auto; /* це і центрує по горизонталі */
+  width: 50%;      /* зменшити на половину */
+  height: auto;    /* щоб пропорції залишались правильні */
+}
+h2{
+    display: block;
+  margin: 0 auto; /* це і центрує по горизонталі */
+  width: 50%;      /* зменшити на половину */
+  height: auto;    /* щоб пропорції залишались правильні */
+}
